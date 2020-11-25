@@ -9,9 +9,11 @@ It is tkinter based library and open source.you can easly change this applicatio
 #How to run this application
 
 First download this repository.
-git clone 
+git clone https://github.com/softhackpro/findFile-Folder.git
+
 second go to directory where it download
-cd 
+cd findFile-Folder
+
 third run this application, then type
 python3 find.py
 
