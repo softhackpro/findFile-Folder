@@ -2,18 +2,18 @@
 This repository is used for finding file and folder in any where. This tool is gui based so it is easy to use.
 
 This application is python3 based.So, Python3 should be install or downloaded in your system.
-It is tkinter based library and open source.you can easly change this application look and work.
+It is tkinter based library and open source.you can easly change this application look and work.<br>
 
 #---------------------------------------------------------------------
 
 #How to run this application
 
-First download this repository.
+First download this repository<br>
 git clone https://github.com/softhackpro/findFile-Folder.git
 
-second go to directory where it download
+Second go to directory where it download:<br>
 cd findFile-Folder
 
-third run this application, then type
+Third run this application:<br>
 python3 find.py
 
